@@ -186,16 +186,10 @@ FULL_STACK/
 
 ## Dashboard Preview
 
-(Add Power BI dashboard screenshot here)
+<img width="1683" height="949" alt="image" src="https://github.com/user-attachments/assets/0fcf0a8f-4c95-43ec-8e03-8907711c0a43" />
 
 ---
 
 ## Author
 
-Vikram Raju K (Honestly I Used an LLM for this readme.md)
-
-```
-
-
-That one is critical for resume/interview storytelling.
-```
+Vikram Raju K (Honestly I used ChatGPT for this readme.md)
